@@ -61,6 +61,3 @@ Implemented and compared multiple models:
 - Flights departing in the evening had a higher probability of delay.
 - Certain carriers and airports had significantly higher delay rates.
 - Feature importance analysis showed scheduled departure time and carrier were key predictors.
-
-## 📁 Project Structure
-
